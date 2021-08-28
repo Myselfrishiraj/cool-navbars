@@ -213,7 +213,7 @@ section p{
     text-align: justify;
 }
 
-/* jellyfish structure */
+/* rishi structure */
 section#jellyfish div.box:first-of-type{
     background: url("../img/jellyfish/1.jpeg") center;
     background-size: cover;
