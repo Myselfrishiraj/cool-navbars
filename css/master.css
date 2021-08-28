@@ -214,7 +214,7 @@ section p{
 }
 
 /* rishi structure */
-section#rishidiv.box:first-of-type{
+section#rishi div.box:first-of-type{
     background: url("https://upload.wikimedia.org/wikipedia/commons/9/9c/Ashaathletic_6.jpg") center;
     background-size: cover;
 }
