@@ -16,7 +16,7 @@ nav.cool-navbar{
     right: 60px;
     text-align: right;
 }
-nav.jellyfish ul li a{
+nav.rishi ul li a{
     display: inline-block;
     font-size: 12.5px;
     padding: 5px 10px;
@@ -25,17 +25,17 @@ nav.jellyfish ul li a{
       -webkit-transition: all 0.4s ease;
       transition: all 0.4s ease;
 }
-nav.jellyfish ul li a span{
+nav.rishi ul li a span{
     display: none;
     margin-right: 10px;
     top: 2px;
     position: relative;
 }
-nav.jellyfish ul li a.active span{
+nav.rishi ul li a.active span{
     display: inline-block;
     top: 0;
 }
-nav.jellyfish ul li a .indicator{
+nav.rishi ul li a .indicator{
     width: 3.5px;
     height: 3.5px;
     border-radius: 50%;
@@ -43,7 +43,7 @@ nav.jellyfish ul li a .indicator{
     display: inline-block;
     position: relative;
 }
-nav.jellyfish ul li a.active .indicator{
+nav.rishi ul li a.active .indicator{
     width: 10px;
     height: 10px;
     background: transparent;
@@ -51,14 +51,14 @@ nav.jellyfish ul li a.active .indicator{
     right: -3px;
     top: 2px;
 }
-nav.jellyfish ul li a:hover span{
+nav.rishi ul li a:hover span{
     display: inline-block;
 }
 
 
 
-/* neon */
-nav.neon ul li a{
+/* About us */
+nav.about us ul li a{
     display: inline-block;
     font-size: 12.5px;
     padding: 5px 10px;
@@ -67,17 +67,17 @@ nav.neon ul li a{
       -webkit-transition: all 0.4s ease;
       transition: all 0.4s ease;
 }
-nav.neon ul li a span{
+nav.about us ul li a span{
     display: none;
     margin-right: 10px;
     top: 2px;
     position: relative;
 }
-nav.neon ul li a.active span{
+nav.about us ul li a.active span{
     display: inline-block;
     top: 0;
 }
-nav.neon ul li a .indicator{
+nav.about us ul li a .indicator{
     width: 3.5px;
     height: 3.5px;
     border-radius: 0;
@@ -86,7 +86,7 @@ nav.neon ul li a .indicator{
     display: inline-block;
     position: relative;
 }
-nav.neon ul li a.active .indicator{
+nav.about us ul li a.active .indicator{
     width: 10px;
     height: 10px;
     background: transparent;
@@ -94,7 +94,7 @@ nav.neon ul li a.active .indicator{
     right: -3px;
     top: 2px;
 }
-nav.neon ul li a:hover span{
+nav.aboit us ul li a:hover span{
     display: inline-block;
 }
 
